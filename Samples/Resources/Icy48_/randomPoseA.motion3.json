@@ -206,10 +206,10 @@
 			"Id": "ParamWind_Direction",
 			"Segments": [
 				0,
-				0,
+				0.1,
 				0,
 				3.967,
-				0
+				0.1
 			]
 		},
 		{
@@ -217,10 +217,10 @@
 			"Id": "ParamTowel_Direction",
 			"Segments": [
 				0,
-				-1,
+				-0.5,
 				0,
 				3.967,
-				-1
+				-0.5
 			]
 		},
 		{

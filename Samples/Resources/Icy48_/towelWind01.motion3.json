@@ -7,79 +7,13 @@
 		"FadeOutTime": 0.0,
 		"Loop": true,
 		"AreBeziersRestricted": false,
-		"CurveCount": 14,
-		"TotalSegmentCount": 23,
-		"TotalPointCount": 45,
+		"CurveCount": 8,
+		"TotalSegmentCount": 17,
+		"TotalPointCount": 33,
 		"UserDataCount": 0,
 		"TotalUserDataSize": 0
 	},
 	"Curves": [
-		{
-			"Target": "Parameter",
-			"Id": "Param23",
-			"Segments": [
-				0,
-				0,
-				0,
-				3.967,
-				0
-			]
-		},
-		{
-			"Target": "Parameter",
-			"Id": "ParamBodyAngleX",
-			"Segments": [
-				0,
-				0,
-				0,
-				3.967,
-				0
-			]
-		},
-		{
-			"Target": "Parameter",
-			"Id": "ParamBodyAngleZ",
-			"Segments": [
-				0,
-				0,
-				0,
-				3.967,
-				0
-			]
-		},
-		{
-			"Target": "Parameter",
-			"Id": "ParamMouthOpenY",
-			"Segments": [
-				0,
-				0,
-				0,
-				3.967,
-				0
-			]
-		},
-		{
-			"Target": "Parameter",
-			"Id": "ParamMouthEat",
-			"Segments": [
-				0,
-				0,
-				0,
-				3.967,
-				0
-			]
-		},
-		{
-			"Target": "Parameter",
-			"Id": "Param2",
-			"Segments": [
-				0,
-				0,
-				0,
-				3.967,
-				0
-			]
-		},
 		{
 			"Target": "Parameter",
 			"Id": "Param26",
@@ -129,10 +63,10 @@
 			"Id": "ParamWind_Direction",
 			"Segments": [
 				0,
-				0,
+				0.2,
 				0,
 				3.967,
-				0
+				0.2
 			]
 		},
 		{
